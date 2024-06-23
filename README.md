@@ -10,5 +10,7 @@ A site that will provide you with random quotes.
 
 pythonanywhere link - https://tornike19.pythonanywhere.com/
 
+პროექტზე მუშაობდნენ: ნინი მაზმიშვილი, თორნიკე წიქარიშვილი, ბარბარე ბაბუნაშვილი
+
 
 
