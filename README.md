@@ -1,16 +1,15 @@
-# Quiz-5---QUOTES-
+# QUOTES
 A site that will provide you with random quotes.
 
-საიტი, რომელიც შემთხვევითობის პრინციპით მოგაწვდით ცნობილი ადამიანების ციტატებს.
-საიტი გაძლევთ საშუალებას თავადაც დაამატოთ/ატვირთოთ ციტატები. თქვენი ატვირთული ციტატები შენახული იქნება quotes.db ბაზაში სხვა ციტატებტან ერთად
+A site that will provide you with random quotes from famous people.
 
-კოდში გვაქვს გამოყენებული abort() ფუნქციონლი, რომელიც არ განგვიხილია ლექციაზე.
+The site allows you to add/upload quotes yourself. Your uploaded quotes will be stored in the quotes.db database along with other quotes
 
-გამოყენებული API - https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en
+In the code we have used the abort() function, which we did not discuss in the lecture.
+
+API used - https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en
 
 pythonanywhere link - https://tornike19.pythonanywhere.com/
-
-პროექტზე მუშაობდნენ: ნინი მაზმიშვილი, თორნიკე წიქარიშვილი, ბარბარე ბაბუნაშვილი
 
 
 
